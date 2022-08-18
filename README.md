@@ -58,7 +58,7 @@
 - [Tic-tac-toe](https://github.com/pnp/List-Formatting/tree/master/view-samples/tic-tac-toe)
 - [Volume option](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-volume)
  
-## PnP (Patterns and Practices)
+## PnP (Patterns and Practices) - **Archived**
 
 - [Manage UserCustomAction](https://github.com/pnp/PnP/tree/master/Samples/Core.ManageUserCustomAction)
 - [Header & Footer SharePoint](https://github.com/pnp/PnP/tree/master/Samples/Core.EmbedJavaScript.HeaderFooter)
