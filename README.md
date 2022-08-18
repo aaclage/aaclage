@@ -1,7 +1,5 @@
 ### André Lage (aaclage) collaboration portfolio
 
-**Info:** Normal person. 
-
 ## Microsoft Graph Toolkit
 
 - [v2.3.0 - Contribute creating File upload functionality in mgt-file-list](https://github.com/microsoftgraph/microsoft-graph-toolkit/releases/tag/v2.3.0)
