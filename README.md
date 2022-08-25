@@ -1,5 +1,34 @@
 ### André Lage (aaclage) collaboration portfolio
 
+## Presentations
+
+### Microsoft 365 PnP Weekly – Episode 139 – André Lage (Datalynx AG)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6kv5nvgPVqY/0.jpg)](https://www.youtube.com/watch?v=6kv5nvgPVqY)
+
+### List Formatting magic - Tab and Percentage Chart
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fbD2JDoH3eY/0.jpg)](https://www.youtube.com/watch?v=fbD2JDoH3eY)
+
+### List Formatting - Building custom no-code payment registration tracking solution
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D6C7d3FsJBA/0.jpg)](https://www.youtube.com/watch?v=D6C7d3FsJBA)
+
+### List formatting magic – Advance discussion board formatting with Power Automate
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Kdwbehx1804/0.jpg)](https://www.youtube.com/watch?v=Kdwbehx1804)
+
+### List formatting magic - Discussion board formatting
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KTleK0_66IU/0.jpg)](https://www.youtube.com/watch?v=KTleK0_66IU)
+
+### Microsoft List Formatting - Challenges and Solutions
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yvEiXouwBUk/0.jpg)](https://www.youtube.com/watch?v=yvEiXouwBUk)
+
+### Follow Documents in Modern Workspace with SPFx
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wx7nqlP3WQU/0.jpg)](https://www.youtube.com/watch?v=Wx7nqlP3WQU)
+
+### Microsoft Graph Toolkit Latest Releases
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cm0144eUg5s/0.jpg)](https://www.youtube.com/watch?v=cm0144eUg5s)
+
+### Using Microsoft Graph Toolkit to easily access files in Sites and in OneDrive
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xgna1iH55k8/0.jpg)](https://www.youtube.com/watch?v=Xgna1iH55k8)
+
 ## Microsoft Graph Toolkit
 
 - [v2.3.0 - Contribute creating File upload functionality in mgt-file-list](https://github.com/microsoftgraph/microsoft-graph-toolkit/releases/tag/v2.3.0)
@@ -62,35 +91,6 @@
 
 - [Manage UserCustomAction](https://github.com/pnp/PnP/tree/master/Samples/Core.ManageUserCustomAction)
 - [Header & Footer SharePoint](https://github.com/pnp/PnP/tree/master/Samples/Core.EmbedJavaScript.HeaderFooter)
-
-## Presentations
-
-### Microsoft 365 PnP Weekly – Episode 139 – André Lage (Datalynx AG)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6kv5nvgPVqY/0.jpg)](https://www.youtube.com/watch?v=6kv5nvgPVqY)
-
-### List Formatting magic - Tab and Percentage Chart
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fbD2JDoH3eY/0.jpg)](https://www.youtube.com/watch?v=fbD2JDoH3eY)
-
-### List Formatting - Building custom no-code payment registration tracking solution
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D6C7d3FsJBA/0.jpg)](https://www.youtube.com/watch?v=D6C7d3FsJBA)
-
-### List formatting magic – Advance discussion board formatting with Power Automate
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Kdwbehx1804/0.jpg)](https://www.youtube.com/watch?v=Kdwbehx1804)
-
-### List formatting magic - Discussion board formatting
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KTleK0_66IU/0.jpg)](https://www.youtube.com/watch?v=KTleK0_66IU)
-
-### Microsoft List Formatting - Challenges and Solutions
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yvEiXouwBUk/0.jpg)](https://www.youtube.com/watch?v=yvEiXouwBUk)
-
-### Follow Documents in Modern Workspace with SPFx
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wx7nqlP3WQU/0.jpg)](https://www.youtube.com/watch?v=Wx7nqlP3WQU)
-
-### Microsoft Graph Toolkit Latest Releases
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cm0144eUg5s/0.jpg)](https://www.youtube.com/watch?v=cm0144eUg5s)
-
-### Using Microsoft Graph Toolkit to easily access files in Sites and in OneDrive
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xgna1iH55k8/0.jpg)](https://www.youtube.com/watch?v=Xgna1iH55k8)
 
 <!--
 **aaclage/aaclage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
