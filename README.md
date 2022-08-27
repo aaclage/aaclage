@@ -33,7 +33,7 @@
 
 - [v2.3.0 - Contribute creating File upload functionality in mgt-file-list](https://github.com/microsoftgraph/microsoft-graph-toolkit/releases/tag/v2.3.0)
 
-## Microsoft Graph Toolkit Samples & Tutorial Materials
+## Microsoft Graph Toolkit Samples
 
 - [mgt-get-multiple-person](https://github.com/pnp/mgt-samples/tree/main/samples/mgt-get-multiple-person)
 
