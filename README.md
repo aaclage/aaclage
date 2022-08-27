@@ -35,7 +35,7 @@
 
 ## Microsoft Graph Toolkit Samples & Tutorial Materials
 
-- - [mgt-get-multiple-person](https://github.com/pnp/mgt-samples/tree/main/samples/mgt-get-multiple-person)
+- [mgt-get-multiple-person](https://github.com/pnp/mgt-samples/tree/main/samples/mgt-get-multiple-person)
 
 ## SharePoint Framework Client-Side Web Part Samples
 
