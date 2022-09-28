@@ -62,6 +62,10 @@
 
 - [Random roll dice](https://github.com/pnp/powerapps-samples/tree/main/samples/random-rolldice)
 
+## Script Samples
+
+- [Add Content Type Hub with calendar format field to List](https://github.com/pnp/script-samples/tree/main/scripts/spo-add-contenttypehub-format-field-to-List)
+
 ## List Formatting Samples
 
 - [Bar Option Picker](https://github.com/pnp/list-formatting/tree/master/view-samples/bar-option-picker)
