@@ -98,6 +98,10 @@
 - [Tic-tac-toe](https://github.com/pnp/List-Formatting/tree/master/view-samples/tic-tac-toe)
 - [Volume option](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-volume)
  
+ ## Microsoft 365 Platform Community Blog
+ 
+ - [Navigate OneDrive data with Microsoft Graph and Mgt-File-List Beta version](https://pnp.github.io/blog/post/navigate-onedrive-data-with-microsoft-graph-and-mgt-file-list)
+ 
 ## PnP (Patterns and Practices) - **Archived**
 
 - [Manage UserCustomAction](https://github.com/pnp/PnP/tree/master/Samples/Core.ManageUserCustomAction)
