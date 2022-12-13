@@ -97,6 +97,7 @@
 - [Teams Group Chat Links](https://github.com/pnp/List-Formatting/tree/master/view-samples/teams-group-chat-links)
 - [Tic-tac-toe](https://github.com/pnp/List-Formatting/tree/master/view-samples/tic-tac-toe)
 - [Volume option](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-volume)
+- [Neumorphism Fields](https://github.com/aaclage/List-Formatting/tree/aaclage/generic-neumorphism/column-samples/generic-neumorphism)
  
  ## Microsoft 365 Platform Community Blog
  
