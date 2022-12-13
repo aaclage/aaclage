@@ -1,4 +1,9 @@
-### André Lage (aaclage) collaboration portfolio
+### André Lage (aaclage) 
+
+Solution Manager for Datalynx AG.
+Working with Microsoft technologies since 1999.
+
+Supporting clients in different areas such us, International Banking, Pharma, Bio techonology, Public sector, Energy, Auto components.
 
 ## Presentations
 
