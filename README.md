@@ -1,4 +1,4 @@
-### André Lage (aaclage) 
+## André Lage
 
 Solution Manager for Datalynx AG.
 
