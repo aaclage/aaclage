@@ -75,18 +75,21 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ## List Formatting Samples
 
-- [Bar Option Picker](https://github.com/pnp/list-formatting/tree/master/view-samples/bar-option-picker)
+- [Person circle Header](https://github.com/pnp/List-Formatting/tree/master/form-samples/person-circle-header)
+- [Neumorphism Fields](https://github.com/aaclage/List-Formatting/tree/aaclage/generic-neumorphism/column-samples/generic-neumorphism)
+- [Emoji Reactions](https://github.com/pnp/list-formatting/tree/master/view-samples/emoji-reactions)
+- [Discussion Board](https://github.com/pnp/list-formatting/tree/master/view-samples/discussion-board)
+- [Roll Dice](https://github.com/pnp/List-Formatting/tree/master/view-samples/roll-dice)
 - [Board Tags](https://github.com/pnp/list-formatting/tree/master/view-samples/board-tags)
 - [Calculator](https://github.com/pnp/List-Formatting/tree/master/column-samples/generic-calculator)
 - [Chevron shape format](https://github.com/pnp/List-Formatting/tree/master/view-samples/chevron-shape-format)
 - [Christmas Tree](https://github.com/pnp/List-Formatting/tree/master/view-samples/christmas-tree)
 - [Clipboards](https://github.com/pnp/list-formatting/tree/master/view-samples/clipboards)
+- [Bar Option Picker](https://github.com/pnp/list-formatting/tree/master/view-samples/bar-option-picker)
 - [Color Picker](https://github.com/pnp/list-formatting/tree/master/view-samples/color-picker)
 - [Compressed Date](https://github.com/pnp/List-Formatting/tree/master/column-samples/date-compress-format)
 - [Date Update Format](https://github.com/pnp/List-Formatting/tree/master/column-samples/date-update-format)
 - [Decimal to Binary Conversion](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-decimal-binary)
-- [Discussion Board](https://github.com/pnp/list-formatting/tree/master/view-samples/discussion-board)
-- [Emoji Reactions](https://github.com/pnp/list-formatting/tree/master/view-samples/emoji-reactions)
 - [Event Registration](https://github.com/pnp/list-formatting/tree/master/view-samples/event-registration)
 - [Location Bing Maps](https://github.com/pnp/List-Formatting/tree/master/column-samples/location-bing-maps)
 - [Menu Link Tiles](https://github.com/pnp/List-Formatting/tree/master/view-samples/menu-link-tiles)
@@ -96,7 +99,6 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 - [Payments](https://github.com/pnp/List-Formatting/tree/master/view-samples/payments)
 - [Percent Chart format](https://github.com/pnp/List-Formatting/tree/master/view-samples/percent-chart-format)
 - [Reorder and Expand Board Items](https://github.com/pnp/List-Formatting/tree/master/view-samples/reorder-expand-board-items)
-- [Roll Dice](https://github.com/pnp/List-Formatting/tree/master/view-samples/roll-dice)
 - [Rounded Fill Checkbox](https://github.com/pnp/list-formatting/tree/master/column-samples/yesno-roundedfill-format)
 - [Search Within Tags](https://github.com/pnp/List-Formatting/tree/master/view-samples/search-within-tags)
 - [Tabs](https://github.com/pnp/List-Formatting/tree/master/view-samples/tabs)
@@ -104,7 +106,7 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 - [Teams Group Chat Links](https://github.com/pnp/List-Formatting/tree/master/view-samples/teams-group-chat-links)
 - [Tic-tac-toe](https://github.com/pnp/List-Formatting/tree/master/view-samples/tic-tac-toe)
 - [Volume option](https://github.com/pnp/List-Formatting/tree/master/column-samples/number-volume)
-- [Neumorphism Fields](https://github.com/aaclage/List-Formatting/tree/aaclage/generic-neumorphism/column-samples/generic-neumorphism)
+
  
  ## Microsoft 365 Platform Community Blog
  
