@@ -71,9 +71,9 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ## Script Samples
 
-- [Add users to follow SharePoint Sites](https://pnp.github.io/script-samples/spo-add-user-follow-site/README.html)
-- [Export access shared links from SharePoint Library](https://github.com/pnp/script-samples/tree/main/scripts/spo-export-file-shared-links)
-- [Add Content Type Hub with calendar format field to List](https://github.com/pnp/script-samples/tree/main/scripts/spo-add-contenttypehub-format-field-to-List)
+- [Add users to follow SharePoint Sites](https://pnp.github.io/script-samples/spo-add-user-follow-site/README.html) ([Microsoft Graph PowerShell](https://aka.ms/pnp/powershell))
+- [Export access shared links from SharePoint Library](https://github.com/pnp/script-samples/tree/main/scripts/spo-export-file-shared-links) ([PnP PowerShell](https://aka.ms/cli-m365) / [CLI for Microsoft 365](https://aka.ms/cli-m365)))
+- [Add Content Type Hub with calendar format field to List](https://github.com/pnp/script-samples/tree/main/scripts/spo-add-contenttypehub-format-field-to-List) ([PnP PowerShell](https://aka.ms/pnp/powershell))
 
 ## List Formatting Samples
 
