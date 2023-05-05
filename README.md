@@ -11,9 +11,6 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ## Presentations
 
-### Microsoft 365 PnP Weekly – Episode 139 – André Lage (Datalynx AG)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6kv5nvgPVqY/0.jpg)](https://www.youtube.com/watch?v=6kv5nvgPVqY)
-
 ### List Formatting - Convert data into graphical information
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5wxlN0wlO_g/0.jpg)](https://www.youtube.com/watch?v=5wxlN0wlO_g)
 
@@ -34,6 +31,9 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ### Microsoft List Formatting - Challenges and Solutions
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yvEiXouwBUk/0.jpg)](https://www.youtube.com/watch?v=yvEiXouwBUk)
+
+### Microsoft 365 PnP Weekly – Episode 139 – André Lage (Datalynx AG)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6kv5nvgPVqY/0.jpg)](https://www.youtube.com/watch?v=6kv5nvgPVqY)
 
 ### Follow Documents in Modern Workspace with SPFx
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Wx7nqlP3WQU/0.jpg)](https://www.youtube.com/watch?v=Wx7nqlP3WQU)
