@@ -4,7 +4,7 @@ Solution Manager for Datalynx AG.
 
 Working with Microsoft technologies since 1999 and now mostly Management, Architecture and Product Owner. 
 
-Before working with Lotus 1-2-3 in Olivetti computer, executing ms-dos commands, Amstrad CPC end user, copying ZX Basic code from pc Magazine to spectrum 128k, telex user and Telematch console Pong player.
+Before working with Lotus 1-2-3 in Olivetti computer, executing ms-dos commands, Amstrad CPC end user, copying ZX Basic code from pc Magazine to spectrum 128k and ensure correct level sound to execute code on tape, telex user and Telematch console Pong player.
 
 Creating Software as a service (SaaS) for current business.
 Supporting clients in different areas such us, Banking, Pharma, Bio techonology, Public sector, Energy, Auto components.
