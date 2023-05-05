@@ -14,6 +14,9 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 ### Microsoft 365 PnP Weekly – Episode 139 – André Lage (Datalynx AG)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6kv5nvgPVqY/0.jpg)](https://www.youtube.com/watch?v=6kv5nvgPVqY)
 
+### List Formatting - Convert data into graphical information
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5wxlN0wlO_g/0.jpg)](https://www.youtube.com/watch?v=5wxlN0wlO_g)
+
 ### List formatting magic – neomorphic design for polished UX
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8Nboe31bmB4/0.jpg)](https://www.youtube.com/watch?v=8Nboe31bmB4)
 
