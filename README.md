@@ -82,6 +82,7 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ## List Formatting Samples
 
+- [Welcome Header](https://github.com/pnp/List-Formatting/tree/master/form-samples/welcome-header)
 - [Person circle Header](https://github.com/pnp/List-Formatting/tree/master/form-samples/person-circle-header)
 - [Neumorphism Fields](https://github.com/aaclage/List-Formatting/tree/aaclage/generic-neumorphism/column-samples/generic-neumorphism)
 - [Emoji Reactions](https://github.com/pnp/list-formatting/tree/master/view-samples/emoji-reactions)
