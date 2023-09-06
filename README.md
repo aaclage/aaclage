@@ -50,7 +50,7 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ## Microsoft Graph Toolkit Samples
 
-- [mgt-get-multiple-person](https://github.com/pnp/mgt-samples/tree/main/samples/mgt-get-multiple-person)
+- [mgt-get-multiple-person](https://github.com/pnp/mgt-samples/tree/main/samples/html/mgt-get-multiple-person)
 
 ## SharePoint Framework Client-Side Web Part Samples
 
