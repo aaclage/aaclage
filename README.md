@@ -9,6 +9,8 @@ Working with Microsoft technologies since 1999 and now mostly Management, Archit
 🤝 Creating Software as a service (SaaS) for current business.
 Supporting clients in different areas such us, Banking, Pharma, Bio techonology, Public sector, Energy, Auto components.
 
+Microsoft MVP from 2010-2016
+
 Languages:
 - English
 - German
