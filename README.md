@@ -1,7 +1,5 @@
 ## André Lage
 
-Solution Manager for Datalynx AG.
-
 Working with Microsoft technologies since 1999 and now mostly Management, Architecture and Product Owner. 
 
 🖥️ Before working with Lotus 1-2-3 in Olivetti computer, executing ms-dos commands, Amstrad CPC end user, copying ZX Basic code from pc Magazine to Timex Sinclair 2068 (load first game) and ensure correct sound level to execute code on tape, telex user and 🕹️ Telematch console Pong player (conic tv 406-6).
