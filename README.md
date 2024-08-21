@@ -1,4 +1,4 @@
-## André Lage
+## 🎯 André Lage - Manager & Architect
 
 Working with Microsoft technologies since 1999 and now mostly Management, Architecture and Product Owner. 
 
@@ -7,7 +7,11 @@ Working with Microsoft technologies since 1999 and now mostly Management, Archit
 🤝 Creating Software as a service (SaaS) for current business.
 Supporting clients in different areas such us, Banking, Pharma, Bio techonology, Public sector, Energy, Auto components.
 
-Languages:
+### 🔗 Key Projects:
+- Cloud infrastructure projects leveraging Microsoft Azure
+- SaaS platforms transforming business operations
+
+### 🔉Languages:
 - English
 - German
 - Portuguese
@@ -15,7 +19,7 @@ Languages:
 - Italian
 - French
 
-## Presentations
+## 🎦 Presentations
 
 ### List Formatting - Convert data into graphical information
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5wxlN0wlO_g/0.jpg)](https://www.youtube.com/watch?v=5wxlN0wlO_g)
