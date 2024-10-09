@@ -42,7 +42,7 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 ### Microsoft List Formatting - Challenges and Solutions
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yvEiXouwBUk/0.jpg)](https://www.youtube.com/watch?v=yvEiXouwBUk)
 
-### Interview with Andre Lage and Enea Licaj 
+### Interview with Ami Diamond, Andre Lage and Enea Licaj 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xOuFPnhxZTQ/0.jpg)](https://www.youtube.com/watch?v=xOuFPnhxZTQ)
 
 ### Microsoft 365 PnP Weekly – Episode 139 – André Lage (Datalynx AG)
