@@ -12,9 +12,9 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 - SaaS platforms transforming business operations
 
 ### 🔉Languages:
-- English
 - German
 - Portuguese
+- English
 - Spanish
 - Italian
 - French
