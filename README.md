@@ -21,6 +21,9 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ## 🎦 Presentations
 
+### List formatting - List embedded integrated with Power Apps
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s40X1dGu390/0.jpg)](https://www.youtube.com/watch?v=s40X1dGu390)
+
 ### List Formatting - Convert data into graphical information
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5wxlN0wlO_g/0.jpg)](https://www.youtube.com/watch?v=5wxlN0wlO_g)
 
