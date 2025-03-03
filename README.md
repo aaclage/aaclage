@@ -9,7 +9,7 @@ Supporting clients in different areas such us, Banking, Pharma, Bio techonology,
 
 ### 🔗 Key Projects:
 - Cloud infrastructure projects leveraging Microsoft Azure
-- SaaS platforms transforming business operations
+- Transition to AI agents actions and before SaaS platforms transforming business operations
 
 ### 🔉Languages:
 - English
